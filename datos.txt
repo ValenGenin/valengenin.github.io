@@ -1,0 +1,5 @@
+Alumno: Valentino Ezequiel Genin
+Carrera: Diseño Multimedial
+Turno: Tarde
+Comisión: B
+Modalidad: Presencial
